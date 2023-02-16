@@ -34,9 +34,7 @@ class MainActivity : AppCompatActivity() {
             "magenta",
             "yellow",
             "lightgray",
-            "darkgray",
-            "grey",
-            "aqua"
+            "darkgray"
         )
         val adapter = ColorAdapter(this, colors)
 
